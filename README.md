@@ -1,4 +1,4 @@
-# fech-api-github
+# Fech GitHub API
 Projeto desenvolvido com foco em estudos de JavaScript, utilizando `fetch` para consumir a [API pública do GitHub] e exibir informações de usuários e seus repositórios.
 
 ## 📌 Funcionalidades
