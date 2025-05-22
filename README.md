@@ -28,7 +28,7 @@ Este projeto foi criado como parte dos meus estudos em desenvolvimento web, com 
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/preview.gif)
+![Preview do projeto](https://github.com/LorraineF-A/fech-api-github/blob/main/projeto-inicial-fech/src/assets/render.gif)
 
 
 ## 🚀 Como executar
